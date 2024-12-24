@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Laptop",
+    "description": "Laptop de alta gama",
+    "code": "LP001",
+    "price": 1500,
+    "stock": 10,
+    "category": "Tecnología",
+    "thumbnails": []
+  },
+  {
+    "id": "2",
+    "title": "Auriculares",
+    "description": "Auriculares inalámbricos",
+    "code": "AU002",
+    "price": 200,
+    "stock": 25,
+    "category": "Accesorios",
+    "thumbnails": []
+  },
+  {
+    "id": "1734927602077",
+    "title": "Producto de prueba",
+    "description": "Descripción del producto",
+    "code": "ABC123",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Electrónica",
+    "thumbnails": [
+      "http://example.com/img1.jpg"
+    ]
+  }
+]

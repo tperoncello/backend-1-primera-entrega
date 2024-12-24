@@ -1,0 +1,16 @@
+{
+    "name": "ecommerce-backend",
+    "version": "1.0.0",
+    "description": "Ecommerce backend project with Node.js and Express",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js"
+    },
+    "keywords": [],
+    "author": "Tomás Peroncello",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
